@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "is_bst": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
